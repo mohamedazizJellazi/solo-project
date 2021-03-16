@@ -71,6 +71,8 @@ $(document).ready(function(){
   $("#restart").click(function(){
    $("div").text("");
    n=0;
+   $("#title").text("NO WINNER");
+
   })
     
    
